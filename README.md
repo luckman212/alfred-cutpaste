@@ -1,4 +1,4 @@
-<img src="icon.png" width="256" />
+<img src="icon.png" width="128" />
 
 # Cut & Paste
 
